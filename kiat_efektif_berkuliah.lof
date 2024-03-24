@@ -1,0 +1,9 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces This is a margin figure. The helix is defined by $x = \cos (2\pi z)$, $y = \sin (2\pi z)$, and $z = [0, 2.7]$. The figure was drawn using Asymptote (\url {http://asymptote.sf.net/}).}}{11}{section*.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces This graph shows $y = \sin x$ from about $x = [-10, 10]$. \emph {Notice that this figure takes up the full page width.}}}{12}{section*.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 
